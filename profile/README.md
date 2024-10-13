@@ -6,10 +6,10 @@ Welcome to the Galactic Interstellar Trade Commission (GITC) Tech Support portal
 
 # Scope of Support
 
-1. Spacecraft Systems: Diagnostics and troubleshooting for advanced propulsion systems, navigation, and communication arrays.
-2. Trade Facilitation Platforms: Support for the GITC's trade management software, including data integration, customs clearance, and payment processing.
-3. Cybersecurity: Protection against cyber threats, vulnerability assessments, and penetration testing for GITC's digital infrastructure.
-4. Interoperability: Ensuring seamless communication and data exchange between diverse alien species and their spacecraft.
+1. **Spacecraft Systems:** Diagnostics and troubleshooting for advanced propulsion systems, navigation, and communication arrays.
+2. **Trade Facilitation Platforms:** Support for the GITC's trade management software, including data integration, customs clearance, and payment processing.
+3. **Cybersecurity:** Protection against cyber threats, vulnerability assessments, and penetration testing for GITC's digital infrastructure.
+4. **Interoperability:** Ensuring seamless communication and data exchange between diverse alien species and their spacecraft.
 
 # Technical Requirements
 
